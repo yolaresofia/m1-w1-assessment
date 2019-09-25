@@ -2,6 +2,8 @@
 
 # WebDev Assessment - Week 1 | JS
 
+<br>
+
 ## Learning Goals
 
 
@@ -11,7 +13,7 @@
 
 
 
-
+<br>
 
 ## Getting Started
 
@@ -33,6 +35,8 @@
 
 
 
+<br>
+
 ## When Done
 
 1. When done with the exercise create the commit with the updated `assessment1.js` file .
@@ -45,13 +49,15 @@
 
    
 
-2. Push the commit to the 
+2. Push the commit to the remote.
 
-```bash
-git push origin master
-```
+   ```bash
+   git push origin master
+   ```
 
+   
 
+3. Create the **Pull Request**.
 
 
 
