@@ -1,6 +1,8 @@
 // Write a function that returns the product of 2 numbers
 function product(x, y) {
   //
+  if (typeof x !== 'number' || typeof y !== 'number') return false;
+  return x * y;
 }
 
 // Write a function that returns whether a given number is even
