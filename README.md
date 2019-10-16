@@ -37,6 +37,7 @@
 
 <br>
 
+
 ## When Done
 
 1. When done with the exercise create the commit with the updated `assessment1.js` file .
@@ -46,7 +47,8 @@
    
    git commit -m "Assessment done"
    ```
-
+   
+ <br>
    
 
 2. Push the commit to the remote.
@@ -55,11 +57,17 @@
    git push origin master
    ```
 
-   
+<br>
 
 3. Create the **Pull Request**.
+
+When creating the Pull Request, add the title same as when creating Pull Request for your labs, e.g.:
+`BCN-FTWD-1019-Marco`, `MAD-PTWD-0618-Alvaro`
+
+<br>
 
 
 
 **Happy coding!** :rocket:
+
 
