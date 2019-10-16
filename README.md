@@ -62,6 +62,7 @@
 3. Create the **Pull Request**.
 
 When creating the Pull Request, add the title same as when creating Pull Request for your labs, e.g.:
+
 `BCN-FTWD-1019-Marco`, `MAD-PTWD-0618-Alvaro`
 
 <br>
