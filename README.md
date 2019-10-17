@@ -4,16 +4,6 @@
 
 <br>
 
-## Learning Goals
-
-
-
-- 
-- 
-
-
-
-<br>
 
 ## Getting Started
 
