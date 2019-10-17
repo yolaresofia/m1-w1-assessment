@@ -11,7 +11,7 @@
 
    
 
-2. **Clone** __your copy__ of the repository. The link of the repo should be `<your-github-username>/m1-w1-assessment`.
+2. **Clone** __your copy__ of the repository. The URL of the repo webpage should be `<your-github-username>/m1-w1-assessment`.
 
    
 
