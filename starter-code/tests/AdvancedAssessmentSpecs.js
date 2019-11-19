@@ -32,15 +32,15 @@ describe('maxOfTwoNumbers(a, b)', () => {
 });
 
 describe('maxOfThreeNumbers(a, b, c)', () => {
-  it('should return first argument when the first argument is the highest number', () => {
+  it('should return the first argument when the first argument is the highest number', () => {
     expect(maxOfThreeNumbers(99, 50, 3)).toBe(99);
   });
 
-  it('should return second argument when the second argument is the highest number', () => {
+  it('should return the second argument when the second argument is the highest number', () => {
     expect(maxOfThreeNumbers(10, 99, 3)).toBe(99);
   });
 
-  it('should return third argument when the third argument is the highest number', () => {
+  it('should return the third argument when the third argument is the highest number', () => {
     expect(maxOfThreeNumbers(4, 5, 99)).toBe(99);
   });
 
@@ -48,7 +48,7 @@ describe('maxOfThreeNumbers(a, b, c)', () => {
     expect(maxOfThreeNumbers(4, 5, 99)).toBe(99);
   });
 
-  it('should return false when one or more of the expexted arguments is not a number', () => {
+  it('should return false when one or more of the expected arguments is not a number', () => {
     var whenFirstArgumentNaN = maxOfThreeNumbers(null, 1, 5);
     var whenSecondArgumentNaN = maxOfThreeNumbers(1, null, 5);
     var whenThirdArgumentNaN = maxOfThreeNumbers(1, 5, null);
@@ -78,7 +78,7 @@ describe('sumArray(numbers)', () => {
 });
 
 describe('maxOfArray(numbers)', () => {
-  it('should return a highest number from the given array of numbers.', () => {
+  it('should return the highest number from the given array of numbers.', () => {
     expect(maxOfArray([1, 200, 100, 44])).toBe(200);
   });
 
@@ -104,7 +104,7 @@ describe('longestString(stringsArr)', () => {
     expect(longestString([])).toBe(false);
   });
 
-  it('should return a longest string from the mixed array containing strings and other data types', () => {
+  it('should return the longest string from the mixed array containing strings and other data types', () => {
     expect(longestString(['abc', 1, null, undefined, 'ab', 'abcd'])).toBe(
       'abcd',
     );
@@ -134,7 +134,7 @@ describe('doesWordExist(wordsArr, word)', () => {
 });
 
 describe('findUnique(wordsArr)', () => {
-  it('should return the unique string that occures first in the array', () => {
+  it('should return the unique string that occurs first in the array', () => {
     const assertion = findUnique([
       'foo',
       'bar',

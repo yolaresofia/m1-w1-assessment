@@ -4,17 +4,16 @@ function product(x, y) {
 }
 
 // Write a function that returns whether a given number is even
-
 function isEven(num) {
   //
 }
 
-// Return the biggest of 2 numbers
+// Return the largest of 2 numbers
 function maxOfTwoNumbers(a, b) {
   //
 }
 
-// Return the biggest of 3 numbers
+// Return the largest of 3 numbers
 function maxOfThreeNumbers(a, b, c) {
   //
 }
@@ -24,7 +23,7 @@ function sumArray(numbers) {
   //
 }
 
-// Return the biggest number of a non-empty array
+// Return the largest number of a non-empty array
 function maxOfArray(numbers) {
   //
 }
@@ -39,7 +38,7 @@ function doesWordExist(wordsArr, word) {
   //
 }
 
-// Finding the first non-duplicate word in an array
+// Finding the first non-duplicate (non-repeating) word in an array
 function findUnique(wordsArr) {
   //
 }
@@ -49,7 +48,7 @@ function getFullName(personObj) {
   //
 }
 
-// Return the biggest number in a two dimensional array
+// Return the largest number in a two dimensional array
 function maxTwoDimArray(matrix) {
   //
 }
