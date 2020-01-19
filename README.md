@@ -20,7 +20,7 @@ _Disclosure_: The goal of this assessment is not to grade you since Ironhack is 
 
 5. If you need more details for the current task, feel free to check the `tests/AssessmentSpecs.js` file.
 
-6. When completed all tasks from `tests/AssessmentSpecs.js` file, consider your self a __js ninja - intro level__. 
+6. When completed all tasks from `tests/AssessmentSpecs.js` file, consider your self a __js ninja - intro level__.          
 If you want to try your luck to becoming __js ninja - don't mess with me level__, go to _SpecRunner.html_, comment out the line where `tests/AssessmentSpecs.js` is required and un-comment out the line where we require `tests/AdvancedAssessmentSpecs.js`.
 
 
